@@ -4,13 +4,11 @@ This project contains an analysis of the Stack Overflow Developer Survey dataset
 # Tools Used
 - Python
 - Pandas
-- Matplotlib
 
 # Key Steps
 - Data cleaning and preprocessing
 - Filtering and grouping data
 - Salary analysis by experience and technology
-- Data visualization
 - Hypothesis testing
 
 # Key Insights
